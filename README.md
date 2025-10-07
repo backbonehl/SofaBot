@@ -16,7 +16,7 @@ This is a PyTorch implementation of the Sofabot.
 
 
 ## Dataset 
-Datasets used in the paper are all publicly available datasets. 
+Datasets used in the paper are all publicly available datasets. The dataset access instructions and data split configurations are located in `data`
 
 ### Quick Start For Node Classification:
 Just execute the following command for source model pre-training:
